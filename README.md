@@ -1,2 +1,2 @@
 # FastAPI
-This project is simple todo app using FastAPI
+This Repository is based on FastAPI
